@@ -1,0 +1,15 @@
+body {
+    background-color: #121214;
+    background-image: url(./assets/bg.svg);
+    background-position-x: center;
+    background-position-y: 55.6%;
+}
+body * {
+    font-family: 'Roboto',sans-serif;
+
+} 
+
+.-card ul li + li {
+    padding-top: 24px;
+    border-top: 1px solid #000;
+}
